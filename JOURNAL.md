@@ -73,5 +73,5 @@ While designing the mount, I had ran into the issues of the belt being too far f
 </p>
 <p float="left">
   <img src="images/C10.png" height="300px"> 
-  <img src="images/C22.png" height="300px"> 
+  <img src="images/c22.png" height="300px"> 
 </p>
