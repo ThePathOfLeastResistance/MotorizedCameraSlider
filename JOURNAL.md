@@ -63,7 +63,6 @@ Imported models for the Nema17 stepper motors and the 6mm GT2 pulleys. Once alin
 </p>
 
 ## 2025-06-31 to 2025-07-1 Made the Bracket for the Linear Rail Block (5 hrs)
-
 While designing the mount, I had ran into the issues of the belt being too far from linear rail interms of the y direction. So I had to change from my orginial sketchs since those would require the belt to be on the same levels of the linear block. It was hard to decided where to put the motors for the best rigidy, while also making sure that the center of mass is as close to the 2020 bar as possible. 
 
 <p float="left">
@@ -72,6 +71,20 @@ While designing the mount, I had ran into the issues of the belt being too far f
   <img src="images/C11.png" height="150px"> 
 </p>
 <p float="left">
-  <img src="images/C10.png" height="300px"> 
+  <img src="images/C10.png" height="150px"> 
+  <img src="images/c22.png" height="150px"> 
+  <img src="images/C2.png" height="150px"> 
+</p>
+
+## 2025-07-2 Added belt Tensioner and Camera Arm AND FORGOT TO SAVE (6 hrs)
+I tried to find a model of the belt Tensioner online but could not so made my own based on the measurments I found online, its very very crud, but it does the job. As for the camera arm, I had 2 iterations, while the biggere arm stayed the same, the smaller one had to be redesigned since it was just way too big and lacked any supports for the sides. However, for the version 2, while editing with fusion, I had closed the tab and accidently clicked on dont save, which made my lose both versions. The only picture I took was of the final render. 
+
+<p float="left">
+  <img src="images/C7.png" height="150px"> 
+  <img src="images/C3.png" height="150px"> 
+  <img src="images/C8.png" height="150px"> 
+</p>
+<p float="left">
+  <img src="images/C1.png" height="300px"> 
   <img src="images/c22.png" height="300px"> 
 </p>
