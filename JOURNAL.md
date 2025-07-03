@@ -46,7 +46,7 @@ Since most of the design had already been sketched, it was really quick to trans
 
 
 <p float="left">
-  <img src="images/C21.png" height="300px"> 
-  <img src="images/C20.png" height="300px"> 
-  <img src="images/C19.png" height="300px"> 
+  <img src="images/C21.png" height="100px"> 
+  <img src="images/C20.png" height="100px"> 
+  <img src="images/C19.png" height="100px"> 
 </p>
