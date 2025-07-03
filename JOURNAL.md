@@ -9,9 +9,21 @@ A Camera mount that is controlled by joysticks for cinematography
 - Total Time Spent: TBD
 - Created_at: 2025-06-25
 
-## 2025-06-25 - Outlined Goals and Brainstormed (1 hrs)
+## 2025-06-25 - Outlined Goals and Brainstormed (3 hrs)
 I looked a lot at the commercially available options for camera sliders for design inspirations since I have not taken any cinematography class in a while and hence would not know much about filming. A lot of the time was brainstorming for this project. Spent writing down the goals that I had for this project, which were to have a light frame so that it can be attached to a tripod; a smooth rotation/movement which will be driven by stepper drivers; try out PCB designing by making a CNC shield for an ESP32 board; also, having the robot be controlled by a ps3 or ps4 controller with minimum setup required. I also started to think of the different brackets and configurations that I could do for the linear joint, rather a 2020 aluminum extrusion with linear rails, or aluminum bars with bearings. Based on the cost and weight, I choose with one linear guide rail with the frame being just one 2020 bar. The concern that I had was the frame being unstable or prone to tipping. 
 
-<img src="images/S13.JPG" height="300px"> 
-<img src="images/S14.JPG" height="300px"> 
+<p float="left">
+  <img src="images/S13.JPG" height="300px"> 
+  <img src="images/S14.JPG" height="300px"> 
+  <img src="images/S1.JPG" height="300px"> 
+</p>
 
+
+## 2025-06-26 -  Make a rough outline and improving design (2 hrs)
+Based youtube videos, I thought the best option would be to have a belt system for the y axis, and based on my experience dealing with gears in my past projects I choose to also use belt systems for the rotation of the x and z axis. I decided to change the design later and try to making a working prototype first. So for the design I had assumed I would be using an arduino shield as the control board. Based on a 1:1 ratio, I drafted different sizes for the side brackets. Also I was able to come up with a way to secure the 2020 bar to the bracket with a strong bond using 2020 nuts and M screws. 
+
+<p float="left">
+  <img src="images/S5.JPG" height="300px"> 
+  <img src="images/S3.JPG" height="300px"> 
+  <img src="images/S2.JPG" height="300px"> 
+</p>
