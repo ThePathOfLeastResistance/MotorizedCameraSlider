@@ -8,3 +8,4 @@ A Camera mount that is controlled by joysticks for cinematography
 - Repository Link: https://github.com/ThePathOfLeastResistance/MotorizedCameraSlider
 - Total Time Spent: TBD
 - Created_at: 2025-06-25
+
