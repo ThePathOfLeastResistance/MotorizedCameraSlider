@@ -22,7 +22,7 @@ There were a lot of images that I did not use since it would make this journal v
 </p>
 
 
-## 2025-06-26 -  Make a rough outline and improving design (3.5 hrs)
+## 2025-06-26 -  Make a rough outline and improving design (2 hrs)
 Based youtube videos, I thought the best option would be to have a belt system for the y axis, and based on my experience dealing with gears in my past projects I choose to also use belt systems for the rotation of the x and z axis. I decided to change the design later and try to making a working prototype first. So for the design I had assumed I would be using an arduino shield as the control board. Based on a 1:1 ratio, I drafted different sizes for the side brackets. Also I was able to come up with a way to secure the 2020 bar to the bracket with a strong bond using 2020 nuts and M screws. 
 
 <p float="left">
@@ -31,7 +31,7 @@ Based youtube videos, I thought the best option would be to have a belt system f
   <img src="images/S2.JPG" height="300px"> 
 </p>
 
-## 2025-06-27 -  Rough Outline and Improve [Again] (4 hrs)
+## 2025-06-27 -  Rough Outline and Improve [Again] (3 hrs)
 From How to Mechatronics's website, I got a good idea of what was needed to be design: A calibration system, a bracket to mount the rotating arms to the linear rail block( Very important), and the control method. The calibration system was very simple as I just had to figure out where to put the button. But I had spent alot alot of time trying to design and figure out the design for the bracket to connect the linear block to camera arm since it needed to handle a lot of stress while being compact and 3D printable.
 
 <p float="left">
