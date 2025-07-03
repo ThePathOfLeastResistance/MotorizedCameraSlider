@@ -50,3 +50,15 @@ Since most of the design had already been sketched, it was really quick to trans
   <img src="images/C20.png" height="100px"> 
   <img src="images/C19.png" height="100px"> 
 </p>
+
+## 2025-06-29 -  Added the Motor Mount and the GT2 pulley (3 hrs)
+Imported models for the Nema17 stepper motors and the 6mm GT2 pulleys. Once alined with the predetermined position, the mounts were made. I also imported a Arduino uni with an CNC shield for a place holer. But also, loading the mounts into orca slicer, the amount of supports neede to print each item was insne. Hence, I changed one side to make it easier to print. 
+
+<p float="left">
+  <img src="images/C17.png" height="100px"> 
+  <img src="images/C16.png" height="100px"> 
+  <img src="images/C15.png" height="100px"> 
+  <img src="images/C14.png" height="100px"> 
+
+</p>
+
