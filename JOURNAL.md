@@ -31,7 +31,7 @@ Based youtube videos, I thought the best option would be to have a belt system f
   <img src="images/S2.JPG" height="300px"> 
 </p>
 
-## 2025-06-7 -  Rough Outline and Improve [Again] (4 hrs)
+## 2025-06-27 -  Rough Outline and Improve [Again] (4 hrs)
 From How to Mechatronics's website, I got a good idea of what was needed to be design: A calibration system, a bracket to mount the rotating arms to the linear rail block( Very important), and the control method. The calibration system was very simple as I just had to figure out where to put the button. But I had spent alot alot of time trying to design and figure out the design for the bracket to connect the linear block to camera arm since it needed to handle a lot of stress while being compact and 3D printable.
 
 <p float="left">
@@ -39,4 +39,14 @@ From How to Mechatronics's website, I got a good idea of what was needed to be d
   <img src="images/S7.JPG" height="300px"> 
   <img src="images/S6.JPG" height="300px"> 
   <img src="images/S12.JPG" height="300px"> 
+</p>
+
+## 2025-06-28 -  Starting The Design in Fusion (1.5 hrs)
+Since most of the design had already been sketched, it was really quick to transfer the design into fusion. Most of the time was actually spent on finding 3D models of things like the 2020 extrunsions and importing them into Fusion without having something mess up. This happened a lot, not too sure why, like with the linear guide rails, when I imported them, and converted the mesh into a object, the surfaces just started warpping, same thing happened with the 2020 bar. 
+
+
+<p float="left">
+  <img src="images/C21.png" height="300px"> 
+  <img src="images/C20.png" height="300px"> 
+  <img src="images/C19.png" height="300px"> 
 </p>
