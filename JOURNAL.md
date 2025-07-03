@@ -67,9 +67,9 @@ Imported models for the Nema17 stepper motors and the 6mm GT2 pulleys. Once alin
 While designing the mount, I had ran into the issues of the belt being too far from linear rail interms of the y direction. So I had to change from my orginial sketchs since those would require the belt to be on the same levels of the linear block. It was hard to decided where to put the motors for the best rigidy, while also making sure that the center of mass is as close to the 2020 bar as possible. 
 
 <p float="left">
-  <img src="images/C13.png" height="300px"> 
-  <img src="images/C12.png" height="300px"> 
-  <img src="images/C11.png" height="300px"> 
+  <img src="images/C13.png" height="150px"> 
+  <img src="images/C12.png" height="150px"> 
+  <img src="images/C11.png" height="150px"> 
 </p>
 <p float="left">
   <img src="images/C10.png" height="300px"> 
