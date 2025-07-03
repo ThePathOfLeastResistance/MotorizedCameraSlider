@@ -83,8 +83,10 @@ I tried to find a model of the belt Tensioner online but could not so made my ow
   <img src="images/C7.png" height="150px"> 
   <img src="images/C3.png" height="150px"> 
   <img src="images/C8.png" height="150px"> 
+  <img src="images/C9.png" height="150px"> 
+
 </p>
 <p float="left">
-  <img src="images/C1.png" height="300px"> 
-  <img src="images/c22.png" height="300px"> 
+  <img src="images/C1.png" height="100px"> 
+  <img src="images/c22.png" height="100px"> 
 </p>
